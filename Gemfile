@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'mandrill-api'
+gem 'actionmailer'
+gem 'rspec-core', '~> 2.12.0'
+gem 'rspec'
